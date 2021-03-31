@@ -1,6 +1,6 @@
 # Chainlink External Adapter for the [CodBets Dapp](https://github.com/viken33/CodBets)
 
-Build base on the NodeJS External Adapter Template from [this repo](https://github.com/thodges-gh/CL-EA-NodeJS-Template.git)
+Build based on the NodeJS External Adapter Template from [this repo](https://github.com/thodges-gh/CL-EA-NodeJS-Template.git)
 
 Hosted as a Serverless host on GCP, instructions bellow.
 
